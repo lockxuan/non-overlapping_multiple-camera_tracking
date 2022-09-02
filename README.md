@@ -15,7 +15,7 @@ After downloading the dataset, run `dat2csv.py` to change dat files to csv files
 
 The association algorithm is iterative min-cost-flow.  
 The overview approach is shown in below:  
-![overview approach](./approach.png)
+![overview approach](./method.png)
 
 
 ### Experiments
